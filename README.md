@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am currently working on experimenting with Software Development and GitHub
-I am currently learning a variety of Techonologies and modern Development Methodologies as needed (i.e. C#, .NET, Python, A.I., Cloud, etc...) 
+I am currently practicing or learning a variety of Technologies and modern Development Methodologies as needed (i.e. C#, .NET, Python, A.I., Cloud, etc...) 
 https://linkedin.com/in/cirovilla
 More might be added to this README as necessary
 
