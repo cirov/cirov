@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am currently working on experimenting with Software Development and GitHub
+I am currently learning a variety of Techonogies and modern Development Methodologies as needed (i.e. C#, .NET, Python, A.I., Cloud, etc...) 
+https://linkedin.com/in/cirovilla
+More might be added to this README as necessary
+
 <!--
 **cirov/cirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
